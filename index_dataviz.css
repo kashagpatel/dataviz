@@ -1,0 +1,18 @@
+h1{
+	font-family: garamond;
+	text-align: center;
+}
+
+h3{
+	font-family: garamond;
+}
+
+p{
+	font-family: garamond;
+	font-size: 14px;
+}
+
+iframe{
+	display: block;
+	margin:	auto;
+}

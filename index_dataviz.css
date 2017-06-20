@@ -1,5 +1,5 @@
 h1{
-	font-family: garamond;
+	font-family: impact;
 	text-align: center;
 }
 
@@ -14,5 +14,27 @@ p{
 
 iframe{
 	display: block;
-	margin:	auto;
+	margin: auto;
+	width: 700px;
+	padding-left: 30px;
+	position: relative;
 }
+
+.cat{
+	width: 170px;
+	float: left;
+	position: absolute;
+	top: 250px;
+	left: 60px;
+	bottom: 10px;
+
+}
+
+.dog{
+	width: 100px;
+	float: right;
+	position: absolute;
+	left: 1050px;
+	top: 200px;
+}
+
